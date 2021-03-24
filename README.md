@@ -31,3 +31,9 @@ This was developed on a mac, and I haven't installed it elsewhere to check it, s
 ![Theme Screenshot](https://github.com/cryptohack/typora-theme/blob/a5348a3279f0358c5afdfeb0c65b1c3e2bee6a6a/screenshots/screenshot3.png)
 ![Theme Screenshot](https://github.com/cryptohack/typora-theme/blob/a5348a3279f0358c5afdfeb0c65b1c3e2bee6a6a/screenshots/screenshot4.png)
 ![Theme Screenshot](https://github.com/cryptohack/typora-theme/blob/a5348a3279f0358c5afdfeb0c65b1c3e2bee6a6a/screenshots/screenshot5.png)
+
+## Typography
+
+The body text [Inter](https://rsms.me/inter/), one of my favourite sans serif fonts and is an [open-source](https://github.com/rsms/inter) project!
+
+The title font and `code` `pre` blocks are typeset in [IBM Plex Mono](https://www.ibm.com/plex/). The IBM Plex font is an [open source](https://github.com/IBM/plex) project as well!
