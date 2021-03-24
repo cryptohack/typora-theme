@@ -34,6 +34,6 @@ This was developed on a mac, and I haven't installed it elsewhere to check it, s
 
 ## Typography
 
-The body text [Inter](https://rsms.me/inter/), one of my favourite sans serif fonts and is an [open-source](https://github.com/rsms/inter) project!
+The body text is typeset in inter [Inter](https://rsms.me/inter/), one of my favourite sans serif fonts and is an [open-source](https://github.com/rsms/inter) project.
 
-The title font and `code` `pre` blocks are typeset in [IBM Plex Mono](https://www.ibm.com/plex/). The IBM Plex font is an [open source](https://github.com/IBM/plex) project as well!
+The title font and `code` `pre` blocks are typeset in [IBM Plex Mono](https://www.ibm.com/plex/). The IBM Plex font is an [open source](https://github.com/IBM/plex) project as well.
