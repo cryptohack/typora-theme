@@ -1,4 +1,4 @@
-# Typora Theme
+# CryptoHack Typora Theme
 
 Ever look at the [CryptoHack](https://blog.cryptohack.org) blog and wished your notes could look like that?
 
