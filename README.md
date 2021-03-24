@@ -12,7 +12,7 @@ A dark theme for [Typora](https://typora.io) based on the CryptoHack blog.
 
 ## What is Typora?
 
-Typora is a minimal, free markdown editor which additionally supports Latex using MathJax. It's my go -to app when I'm writing blog posts or writeups.
+Typora is a minimal, free markdown editor which additionally supports Latex using MathJax. It's my go-to app when I'm writing blog posts or writeups.
 
 ## Installation 
 
